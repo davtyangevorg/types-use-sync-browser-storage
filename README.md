@@ -1,6 +1,6 @@
 # @types/use-sync-browser-storage
 
-This package contains TypeScript type definitions for [`use-sync-browser-storage`](https://github.com/davtyangevorg/types-use-sync-browser-storage).
+This package contains TypeScript type definitions for [`use-sync-browser-storage`](https://github.com/davtyangevorg/use-sync-browser-storage).
 
 ## Installation
 

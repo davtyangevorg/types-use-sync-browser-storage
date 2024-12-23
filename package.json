@@ -16,5 +16,15 @@
   ],
   "peerDependencies": {
     "use-sync-browser-storage": "^1.0.3"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davtyangevorg/types-use-sync-browser-storage"
+  },
+  "dependencies": {
+    "@types/node": "*"
   }
 }
