@@ -1,0 +1,20 @@
+{
+  "name": "@types/use-sync-browser-storage",
+  "version": "1.0.0",
+  "description": "TypeScript definitions for use-sync-browser-storage",
+  "main": "",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [
+    "typescript",
+    "types",
+    "use-sync-browser-storage"
+  ],
+  "peerDependencies": {
+    "use-sync-browser-storage": "^1.0.3"
+  }
+}
